@@ -1,4 +1,8 @@
-cd /project/train/src_repo/v5/yolov5
+cd /project/train/src_repo/cvmart-yolov5
+
+mv ji.py /project/ev_sdk/src/ji.py
+
+cd /project/train/src_repo/cvmart-yolov5/yolov5
 
 echo "Prepare environment..."
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
