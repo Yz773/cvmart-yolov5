@@ -1,6 +1,6 @@
-yolo_path = '/project/train/src_repo/v5/yolov5'
+yolo_path = '/project/train/src_repo/cvmart-yolov5/yolov5'
 model_path = '/project/train/models/*/weights/best.pt'
-names = ['fire','big_fire','smoke']
+names = ['fire','big_fire','smoke'] #把这里改成项目里有的类别
 conf_thres = 0.3
 iou_thres = 0.05
 prob_thres = 0.3
