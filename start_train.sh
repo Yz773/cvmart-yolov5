@@ -1,6 +1,6 @@
 cd /project/train/src_repo/cvmart-yolov5
 
-mv ji.py /project/ev_sdk/src/ji.py
+mv ji.py /project/ev_sdk/src
 
 cd /project/train/src_repo/cvmart-yolov5/yolov5
 
